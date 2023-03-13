@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bai Thuc Hanh\\Baithuchanh_20_02\\Baithuchanh_20_02.csproj",
+      "projectUniqueName": "E:\\Bai Thuc Hanh\\Baithuchanh_20_02\\Baithuchanh_20_02.csproj",
       "projectName": "Baithuchanh_20_02",
-      "projectPath": "D:\\Bai Thuc Hanh\\Baithuchanh_20_02\\Baithuchanh_20_02.csproj",
+      "projectPath": "E:\\Bai Thuc Hanh\\Baithuchanh_20_02\\Baithuchanh_20_02.csproj",
       "packagesPath": "C:\\Users\\sonls\\.nuget\\packages\\",
-      "outputPath": "D:\\Bai Thuc Hanh\\Baithuchanh_20_02\\obj\\",
+      "outputPath": "E:\\Bai Thuc Hanh\\Baithuchanh_20_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sonls\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
